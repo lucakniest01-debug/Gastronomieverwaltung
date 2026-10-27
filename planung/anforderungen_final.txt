@@ -1,0 +1,13 @@
+Das sind meine 5 wichtigsten Funktionen
+
+3. Das System ermöglicht den Verkauf von Artikeln an der Kasse, inklusive Berechnung des Gesamtpreises. (2 Stunden)
+   Begründung: ich fand es wichtig um verkauf zu vereinfachen
+
+4. Das System zieht verkaufte Artikel automatisch vom Lagerbestand ab. (3 Stunden)
+   Begründung: Damit man es nicht manuell abziehen muss
+
+5. Das System zeigt den aktuellen Lagerbestand aller Artikel übersichtlich an.(4,5 Stunden)
+   Begründung: ist für eine gute übersicht über den bestand wichtig
+
+1. Das System ermöglicht es, neue Artikel (z. B. Pommes, Eis, Getränke) mit Name, Kategorie und Preis anzulegen. (2 Stunden)
+   Begründung: Damit man einfacher zuordnen kann
