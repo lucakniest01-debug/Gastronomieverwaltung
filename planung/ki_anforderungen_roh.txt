@@ -1,0 +1,29 @@
+﻿KI-Anforderungen (roh)
+Projekt: Schwimmbad - Gastronomieverwaltung
+Verwendetes KI-Tool: Claude (Anthropic)
+Datum: 23.10.2026
+
+========================================
+PROMPT
+========================================
+Kannst du mir 10 funktionale Anfoderungen an meine Gastroverwaltung geben
+
+========================================
+ANTWORT DER KI (ungefiltert)
+========================================
+Hier sind 10 funktionale Anforderungen für das Schwimmbad – Gastronomieverwaltung-System:
+
+1. Das System ermöglicht es, neue Artikel (z. B. Pommes, Eis, Getränke) mit Name, Kategorie und Preis anzulegen.
+2. Das System ermöglicht es, bestehende Artikel zu bearbeiten (Preis, Name, Kategorie) und zu löschen.
+3. Das System ermöglicht den Verkauf von Artikeln an der Kasse, inklusive Berechnung des Gesamtpreises.
+4. Das System zieht verkaufte Artikel automatisch vom Lagerbestand ab.
+5. Das System zeigt den aktuellen Lagerbestand aller Artikel übersichtlich an.
+6. Das System warnt, wenn der Bestand eines Artikels unter eine festgelegte Mindestmenge fällt.
+7. Das System ermöglicht es, Warenlieferungen einzutragen und den Bestand zu erhöhen.
+8. Das System speichert jeden Verkauf mit Datum, Uhrzeit, Artikeln und Betrag.
+9. Das System erstellt eine Tagesübersicht mit Umsatz und den meistverkauften Artikeln.
+10. Das System ermöglicht eine Anmeldung für Mitarbeiter mit Benutzername und Passwort, damit nur berechtigte Personen verkaufen oder den Bestand ändern können.
+
+Für deine Datei ki_anforderungen_roh.txt brauchst du den Prompt und die ungefilterte Antwort. Dein Prompt war: „Kannst du mir 10 funktionale Anforderungen an meine Gastroverwaltung geben“. Kopier beides einfach in die Datei.
+
+Für anforderungen_final.txt passen die Anforderungen 3, 4, 5, 7 und 8 gut als die 5 wichtigsten. Sie lassen sich auch leicht im Console-Prototyp umsetzen.
