@@ -1,0 +1,17 @@
+﻿====================================================
+  LAGERBESTAND  –  Schwimmbad-Kiosk
+  Stand: 29.10.2026
+====================================================
+  Artikel           |  Bestand | Mindestbestand
+----------------------------------------------------
+  Limo              |       20 |             12
+  Kaffee            |       14 |              8
+  Pommes            |       22 |             10
+  Gummibärchen      |        9 |              4
+  Schokolade        |        5 |              2
+  Eis am Stiel      |        3 |              6
+  Wasser            |       30 |             15
+====================================================
+  Neue Artikel einfach als Zeile im gleichen Format
+  ergänzen:  Name | Bestand | Mindestbestand
+====================================================

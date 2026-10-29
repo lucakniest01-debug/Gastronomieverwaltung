@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Kasse/Kasse.csproj" />
+  <Project Path="KasseOhneDB/KasseOhneDB.csproj" />
+  <Project Path="Lagerverwaltung/Lagerverwaltung.csproj" Id="2a889781-9d52-4710-a9fa-7e47b64f2a3f" />
+</Solution>
